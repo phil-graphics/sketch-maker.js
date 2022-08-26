@@ -137,7 +137,7 @@
     "serialize-javascript": "^3.1.0",
     "serve-favicon": "^2.5.0",
     "typesafe-actions": "^5.1.0",
-    "typestyle": "^2.1.0"
+    "typestyle": "^2.4.0"
   },
   "jest": {
     "preset": "ts-jest",
