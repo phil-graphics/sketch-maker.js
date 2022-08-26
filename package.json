@@ -118,7 +118,7 @@
     "@sentry/browser": "^5.27.0",
     "autobind-decorator": "^2.4.0",
     "chalk": "^4.1.0",
-    "cross-fetch": "^3.0.6",
+    "cross-fetch": "^3.1.5",
     "es6-promise": "^4.2.8",
     "express": "^4.17.1",
     "prop-types": "^15.7.2",
